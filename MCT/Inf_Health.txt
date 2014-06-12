@@ -1,0 +1,12 @@
+aobscan(Health, 89 ? C9 C3 55 8B EC 83)
+
+[Enable]
+
+Health:
+nop
+nop
+
+[Disable]
+
+Health:
+mov [eax],ecx

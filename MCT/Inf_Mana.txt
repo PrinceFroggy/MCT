@@ -1,0 +1,12 @@
+aobscan(Mana, 89 ? 8B 47 10 83 EC 0C)
+
+[Enable]
+
+Mana:
+nop
+nop
+
+[Disable]
+
+Mana:
+mov [eax],ecx
