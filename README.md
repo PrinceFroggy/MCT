@@ -7,7 +7,7 @@ A Magicite trainer.
 
 - This trainer works for the Magicite 0.7.4 crack.
 - Use a injector to inject the dynamic link library (.dll) into the Magicite.exe process.
-- Hacks can only be activated once your health and mana are used.
+- Hacks can only be activated once your health and mana are affected.
 - Cheatengine table provided with pointers and scripts.
 
 Enjoy.
