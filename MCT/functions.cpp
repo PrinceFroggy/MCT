@@ -121,6 +121,7 @@ DWORD GetAddress(char *pattern, char *mask)
 			if (Addr != 0)
 			{
 				//MsgBoxAddress(Addr);
+
 				break;
 			}
 		}	

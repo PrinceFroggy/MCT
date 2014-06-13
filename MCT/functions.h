@@ -9,6 +9,7 @@
 void MsgBoxAddress(DWORD addy);
 
 DWORD getGameProcessBaseAddress(DWORD dwProcId);
+
 BOOL GetModuleSize(HMODULE hModule, LPVOID* lplpBase, LPDWORD lpdwSize);
 
 bool __stdcall MaskCompare(const unsigned char* lpData, const unsigned char* lpPattern, const char* pszMask);
