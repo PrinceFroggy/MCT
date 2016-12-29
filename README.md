@@ -10,8 +10,6 @@ A Magicite trainer.
 - Hacks can only be activated once your health and mana are affected.
 - Cheatengine table provided with pointers and scripts.
 
-Credits: Andrew Justin Solesa (https://github.com/Shrooms)
-
 References: http://store.steampowered.com/app/268750/
 
 References: http://thepiratebay.se/torrent/9740702/Magicite_0.7.4_-_ALI213_Crack_%28RG.REBOOT_REPACK%29
